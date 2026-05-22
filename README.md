@@ -15,3 +15,9 @@ I am a Computer Science student at the Information Technology University (ITU) i
 * Advanced database management, normalization (3NF/BCNF), and writing optimized SQL queries.
 * Essential version control and collaboration workflows using GitHub.
 * Implementing and experimenting with mini-AI programs to understand intelligent systems.
+---
+
+### What I Learned About GitHub
+* I learned how to create public repositories and manage files directly on the cloud.
+* I learned how to use commits to save and track different versions of my code updates.
+* I explored the open-source community by learning how to follow developers and star projects.
